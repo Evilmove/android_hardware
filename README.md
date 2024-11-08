@@ -3,6 +3,7 @@
 <p align="center">
 <img src="https://github.com/Evilmove/aosp_manifest/blob/main/Android.png">
 </p>
+
 ### Sync ###
 ```bash
         repo init -u https://github.com/Evilmove/aosp_manifest.git -b main --git-lfs
