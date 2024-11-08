@@ -46,5 +46,11 @@
     <linkfile src="os_pickup_qssi.bp" dest="hardware/qcom-caf/sm8550/Android.bp" />
     <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/sm8550/Android.mk" />
   </project>
+  
+  <!-- Hardware Pixel -->
+  <project path="hardware/google/gchips" name="hardware_google_gchips" remote="vos" />
+  <project path="hardware/google/graphics/common" name="hardware_google_graphics_common" remote="vos" />
+  <project path="hardware/google/pixel" name="hardware_google_pixel" remote="vos" />
+  <project path="hardware/google/pixel-sepolicy" name="hardware_google_pixel-sepolicy" remote="vos" />
 
 </manifest>
