@@ -1470,7 +1470,6 @@
   
     <!-- AOSP -->
   <include name="snippets/external.xml" />
-  <include name="snippets/remove.xml" />
   <include name="snippets/aosp.xml" />
 
   <!-- END open-source projects -->
